@@ -2,6 +2,7 @@
 ## Encrypted Phrase: Cqn arpqcb xo nenah vjw jan mrvrwrbqnm fqnw cqn arpqcb xo xwn vjw jan cqanjcnwnm
 
 Try to decrypt using common two letter words in English and compare them to 'xo' in the encrypted phrase:
+ 
 *Common two letter English words (from google):
 ​​am, an, as, at, (ax), be, by, do, go, he, if, in, is, it, me, my, no, of, ok(ay), on, or, ox, so, to, up, us, we*
 
