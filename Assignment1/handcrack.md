@@ -4,13 +4,13 @@
 ### 1. Try to decrypt using common two letter words in English and compare them to 'xo' in the encrypted phrase:  
    *Common two letter English words (from google): ​​am, an, as, at, (ax), be, by, do, go, he, if, in, is, it, me, my, no, of, ok(ay), on, or, ox, so, to, up, us, we*
 
-### 2. Most start with a, so try a → x:
+### 2. Most start with a, so try a → x: SHIFT = 23
 Ftq dustf... still doesn’t make sense
 
-### 3. Next, try with i, so try i → x: 
+### 3. Next, try with i, so try i → x: SHIFT = 15
 Nby lcab... still doesn’t make sense
 
-### 4. Next try with o, so try o → x:
+### 4. Next try with o, so try o → x: SHIFT = 9
 The right... makes sense so shift entire alphabet  
 Shifted alphabet:
 
