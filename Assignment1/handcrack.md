@@ -12,7 +12,6 @@ Nby lcab... still doesn’t make sense
 
 ### 4. Next try with o, so try o → x: SHIFT = 9
 The right... makes sense so shift entire alphabet  
-Shifted alphabet:
 
 #### a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z
 #### j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z  a  b  c  d  e  f  g  h  i
