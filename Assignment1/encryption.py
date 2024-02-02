@@ -42,10 +42,10 @@ def vigenere_cipher(message: str, keyword: str, encrypt: bool):
 
     #formatting
     if encrypt:
-        print(f"Original message: {message}\nKeyword: {keyword}\nEncrypted message: {new_message}\n"
+        print(f"Original message: {message}\n\nKeyword: {keyword}\n\nEncrypted message: {new_message}\n"
               "\n----------------------\n")
     else:
-        print(f"Encrypted message: {message}\nKeyword: {keyword}\nDecrypted message: {new_message}\n"
+        print(f"Encrypted message: {message}\n\nKeyword: {keyword}\n\nDecrypted message: {new_message}\n"
               "\n----------------------\n")
     return 
 
